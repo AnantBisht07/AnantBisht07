@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anant Bisht</h1>
-<h3 align="center">🚀 Full Stack Developer | 1+ Years Experience | Cloud • DevOps • Web</h3>
+<h3 align="center">🚀 Software Developer | 1+ Years Experience | GenAI Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anantbisht&label=Profile%20views&color=0e75b6&style=flat" alt="anantbisht" />
@@ -10,10 +10,10 @@
 ## 🧑‍💻 About Me
 
 - 💼 Full Stack Developer focused on **high-performance web apps**
-- ☁️ Cloud & DevOps enthusiast | Docker 🐳 | AWS ☁️
-- 🧠 Passionate about learning & building with **TypeScript, Node.js, React, and Python**
-- 🌱 Currently leveling up on **system design and cloud-native development**
-- 📫 Reach me at: [anantbisht.dev@gmail.com](mailto:anantbisht.dev@gmail.com)
+- ☁️ GenAI & Machine Learning enthusiast
+- 🧠 Experienced skillset in building webapps with **TypeScript, Node.js, React.js & javascript**
+- 🌱 Currently leveling up on **DevOps & AWS**
+- 📫 Reach me at: [ianantbisht@gmail.com](mailto:anantbisht.dev@gmail.com)
 
 ---
 
