@@ -21,6 +21,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,cpp,python,html,css,tailwind,docker,aws&perline=6" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
