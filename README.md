@@ -47,8 +47,9 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=AnantBisht07&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantBisht07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
+
 
 ---
 
