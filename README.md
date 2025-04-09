@@ -11,7 +11,7 @@
 
 - 💼 Full Stack Developer focused on **high-performance web apps**
 - ☁️ GenAI & Machine Learning enthusiast
-- 🧠 Experienced skillset in building webapps with **TypeScript, Node.js, React.js & javascript**
+- 🧠 Experienced skillset in building webapps with **TypeScript, Node.js, Express.js, React.js & Javascript**
 - 🌱 Currently leveling up on **DevOps & AWS**
 - 📫 Reach me at: [ianantbisht@gmail.com](mailto:anantbisht.dev@gmail.com)
 
@@ -27,7 +27,7 @@
 
 ## 🏆 GitHub Stats & Activity
 
-### 🧩 Contribution   Graph (Original GitHub Activity)
+### 🧩 Contribution   Graph 
 
 > ⚙️ Setup instructions below this section to enable it.
 
@@ -40,8 +40,8 @@
 ### 📈 Stats Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anantbisht&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantbisht&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnantBisht07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantBisht07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantbisht&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantBisht07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anantbisht&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantBisht07&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
@@ -73,10 +73,10 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/anantbisht" target="_blank">
+  <a href="https://linkedin.com/in/anantbishtcode" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anant%20Bisht-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:anantbisht.dev@gmail.com">
+  <a href="mailto:ianantbisht@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-anantbisht.dev%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
