@@ -41,8 +41,9 @@
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantBisht07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AnantBisht07&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
 
