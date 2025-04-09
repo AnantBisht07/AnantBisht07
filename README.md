@@ -27,14 +27,6 @@
 
 ## 🏆 GitHub Stats & Activity
 
-### 🧩 Contribution   Graph 
-
-> ⚙️ Setup instructions below this section to enable it.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anantbisht/anantbisht/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
-</p>
-
 ---
 
 ### 📈 Stats Overview
@@ -65,7 +57,7 @@
 ## 💬 Developer Quote
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;Eat+Sleep+Code+Repeat+%F0%9F%8C%9F" alt="Typing quote" />
 </p>
 
 ---
@@ -77,7 +69,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Anant%20Bisht-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ianantbisht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anantbisht.dev%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-ianantbisht%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
