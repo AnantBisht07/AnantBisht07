@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 💼 Full Stack Developer focused on **high-performance web apps**
-- ☁️ GenAI & Machine Learning enthusiast
+- 🔮 GenAI & Machine Learning enthusiast
 - 🧠 Skilled in **TypeScript, React.js, Node.js, Express.js, Docker & AWS**
 - 🌱 Currently learning **DevOps & Cloud-Native technologies**
 - 📫 Reach me: [ianantbisht@gmail.com](mailto:ianantbisht@gmail.com)
