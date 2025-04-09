@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anant Bisht</h1>
-<h3 align="center">🚀 Software Developer | 1+ Years Experience | GenAI Enthusiast </h3>
+<h3 align="center">🚀 Full Stack Developer | 1+ Years Experience | GenAI Enthusiast </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anantbisht&label=Profile%20views&color=0e75b6&style=flat" alt="anantbisht" />
+  <img src="https://komarev.com/ghpvc/?username=AnantBisht07&label=Profile%20views&color=0e75b6&style=flat" alt="anantbisht07" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 
 - 💼 Full Stack Developer focused on **high-performance web apps**
 - ☁️ GenAI & Machine Learning enthusiast
-- 🧠 Experienced skillset in building webapps with **TypeScript, Node.js, Express.js, React.js & Javascript**
-- 🌱 Currently leveling up on **DevOps & AWS**
-- 📫 Reach me at: [ianantbisht@gmail.com](mailto:anantbisht.dev@gmail.com)
+- 🧠 Skilled in **TypeScript, React.js, Node.js, Express.js, Docker & AWS**
+- 🌱 Currently learning **DevOps & Cloud-Native technologies**
+- 📫 Reach me: [ianantbisht@gmail.com](mailto:ianantbisht@gmail.com)
 
 ---
 
@@ -25,8 +25,7 @@
 
 ---
 
-
-### 📈 Stats Overview
+## 📈 GitHub Stats & Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnantBisht07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
@@ -35,20 +34,18 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantBisht07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AnantBisht07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
-
 
 ---
 
-### 📊 Activity Graph
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnantBisht07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak" />
+  <img src="https://github-contribution-graph.vercel.app/api/?username=AnantBisht07&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -56,7 +53,7 @@
 ## 💬 Developer Quote
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;Eat+Sleep+Code+Repeat+%F0%9F%8C%9F" alt="Typing quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;Eat+Sleep+Code+Repeat+%F0%9F%8C%9F" alt="Typing quote" />
 </p>
 
 ---
