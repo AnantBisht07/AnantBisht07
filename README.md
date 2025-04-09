@@ -27,7 +27,7 @@
 
 ## 🏆 GitHub Stats & Activity
 
-### 🧩 Contribution Snake Graph (Original GitHub Activity)
+### 🧩 Contribution   Graph (Original GitHub Activity)
 
 > ⚙️ Setup instructions below this section to enable it.
 
