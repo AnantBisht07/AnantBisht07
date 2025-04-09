@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anant Bisht</h1>
-<h3 align="center">🚀 Full Stack Developer | 1+ Years Experience | GenAI Enthusiast </h3>
+<h1 align="center">Hey👋, I'm Anant Bisht i write elegant chaos that powers the web.</h1>
+<h3 align="center">🚀 Software Developer with 1+ Years Experience | GenAI Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnantBisht07&label=Profile%20views&color=0e75b6&style=flat" alt="anantbisht07" />
