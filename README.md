@@ -1,5 +1,5 @@
-<h1 align="center">Hey👋, I'm Anant Bisht i write elegant chaos that powers the web.</h1>
-<h3 align="center">🚀 Software Developer with 1+ Years of Experience | GenAI Enthusiast </h3>
+<h1 align="center">Hey👋, I'm Anant Bisht having 1.5 years of experience in building the Agentic AI applications.</h1>
+<h3 align="center">🚀 AI Software Engineer | Backend | Agentic AI | Cloud </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnantBisht07&label=Profile%20views&color=0e75b6&style=flat" alt="anantbisht07" />
@@ -9,10 +9,8 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer focused on **high-performance web apps**
-- 🔮 GenAI & Machine Learning enthusiast
-- 🧠 Skilled in **TypeScript, React.js, Node.js, Express.js, Docker & AWS**
-- 🌱 Currently learning **DevOps & Cloud-Native technologies**
+- 🌱 Currently Working as an AI Software Engineer at 1to10x.
+- 🧠 Skilled in **Python, TypeScript, LangChain, LangGraph, RAG, CAG, LLMs, MCP, Node.js, Express.js, FastAPI, Docker, AWS**
 - 📫 Reach me: [ianantbisht@gmail.com](mailto:ianantbisht@gmail.com)
 
 ---
