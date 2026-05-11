@@ -1,80 +1,109 @@
-<h1 align="center">Hey👋, I'm Anant Bisht, i build AI Agents & AI-Powered applications.</h1>
-<h3 align="center">🚀 Applied AI Engineer | Backend | Agentic AI | Gen AI | Cloud </h3>
+<h1 align="center">Anant Bisht</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnantBisht07&label=Profile%20views&color=0e75b6&style=flat" alt="anantbisht07" />
+  <strong>Applied AI Engineer building AI agents, RAG systems, MCP servers, and production-ready backend applications.</strong>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-- 🌱 Currently Working as an AI Software Engineer at 1to10x.
-- 🧠 Skilled in **Python, TypeScript, LangChain, LangGraph, RAG, CAG, LLMs, MCP, Node.js, Express.js, FastAPI, Docker, AWS**
-- 📫 Reach me: [ianantbisht@gmail.com](mailto:ianantbisht@gmail.com)
-
----
-
-## 🚀 Tech Stack & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,cpp,python,html,css,tailwind,docker,aws&perline=6" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantBisht07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantBisht07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AnantBisht07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantBisht07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-
----
-
-## 💬 Developer Quote
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;Eat+Sleep+Code+Repeat+%F0%9F%8C%9F" alt="Typing quote" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/anantbishtcode" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anant%20Bisht-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:ianantbisht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ianantbisht%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-ianantbisht%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://linkedin.com/in/anantbishtcode">
+    <img src="https://img.shields.io/badge/LinkedIn-Anant%20Bisht-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnantBisht07&label=Profile%20views&color=2ea043&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea043/AnantBisht07" alt="Anant Bisht GitHub contribution chart" width="100%" />
 </p>
 
 ---
 
+## About Me
+
+I am an AI Software Engineer at 1to10x, focused on turning LLM workflows into reliable software systems. My work sits at the intersection of agentic AI, backend engineering, tool orchestration, and clean product interfaces.
+
+- Building AI agents, MCP-powered tools, RAG pipelines, and automation systems.
+- Strong with Python, TypeScript, FastAPI, Node.js, LangChain, LangGraph, Docker, and AWS.
+- Interested in safe agent execution, prompt infrastructure, vector search, and human-in-the-loop AI workflows.
+- Reach me at [ianantbisht@gmail.com](mailto:ianantbisht@gmail.com).
+
+---
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [MCP WatchTower](https://github.com/AnantBisht07/watchTower) | Local-first control tower for MCP-powered agents with audit trails, live run activity, server health checks, and approval gates for risky tool calls. | Python, FastAPI, SQLite, React, MCP |
+| [PromptForge](https://github.com/AnantBisht07/PromptForge) | Multi-tenant prompt management API with JWT auth, RBAC, prompt versioning, and semantic search through Qdrant. | FastAPI, SQLModel, JWT, Qdrant |
+| [AI Teacher Assistant MCP Server](https://github.com/AnantBisht07/AI-Teacher-Assistant-MCP-Server) | MCP server exposing classroom tools, local teaching resources, and reusable prompts for student support workflows. | Python, FastMCP, MCP, Pytest |
+| [10x Arena Support RAG Chatbot](https://github.com/AnantBisht07/Circle-contest-chatbot) | Document Q&A chatbot with source citations, PDF ingestion, vector search, and a clean React chat interface. | React, FastAPI, OpenAI, Pinecone |
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+## AI Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-0f766e?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-1d4ed8?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/CAG-4338ca?style=for-the-badge" alt="CAG" />
+  <img src="https://img.shields.io/badge/MCP-2ea043?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Qdrant-dc244c?style=for-the-badge" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Vector%20Search-2563eb?style=for-the-badge" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-7c3aed?style=for-the-badge" alt="Tool Calling" />
+</p>
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud-Native+Builder+%E2%98%81%EF%B8%8F;Always+learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantBisht07&bg_color=0d1117&color=c9d1d9&line=2ea043&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnantBisht07&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantBisht07&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AnantBisht07&theme=github-dark-blue&hide_border=true" alt="GitHub streak" width="70%" />
+</p>
+
+---
+
+## Current Focus
+
+- Designing safer MCP and AI-agent execution flows.
+- Building backend systems for prompt, retrieval, and automation workflows.
+- Improving RAG quality with better indexing, chunking, retrieval, and source-grounded responses.
+- Shipping practical AI tools that are observable, testable, and useful in real workflows.
+
+---
+
+<p align="center">
+  <strong>Open to AI engineering, backend, and agentic workflow collaborations.</strong>
 </p>
