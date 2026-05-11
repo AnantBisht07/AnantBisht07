@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  Applied AI Engineer | Agentic AI | RAG | MCP | Backend Systems | AI Product Engineering
+</p>
+
+<p align="center">
   <a href="mailto:ianantbisht@gmail.com">
     <img src="https://img.shields.io/badge/Email-ianantbisht%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -22,11 +26,11 @@
 
 ## About Me
 
-I am an AI Software Engineer at 1to10x, focused on turning LLM workflows into reliable software systems. My work sits at the intersection of agentic AI, backend engineering, tool orchestration, and clean product interfaces.
+I am an Applied AI Engineer at 1to10x, focused on turning LLM workflows into reliable software systems. My work sits at the intersection of agentic AI, backend engineering, tool orchestration, and clean product interfaces.
 
-- Building AI agents, MCP-powered tools, RAG pipelines, and automation systems.
+- Building AI agents, MCP-powered tools, RAG pipelines, and automation systems as an Applied AI Engineer.
 - Strong with Python, TypeScript, FastAPI, Node.js, LangChain, LangGraph, Docker, and AWS.
-- Interested in safe agent execution, prompt infrastructure, vector search, and human-in-the-loop AI workflows.
+- Interested in safe agent execution, prompt infrastructure, context engineering, vector search, and human-in-the-loop AI workflows.
 - Reach me at [ianantbisht@gmail.com](mailto:ianantbisht@gmail.com).
 
 ---
@@ -35,8 +39,17 @@ I am an AI Software Engineer at 1to10x, focused on turning LLM workflows into re
 
 | Project | What it does | Stack |
 |---|---|---|
-| [MCP WatchTower](https://github.com/AnantBisht07/watchTower) | Local-first control tower for MCP-powered agents with audit trails, live run activity, server health checks, and approval gates for risky tool calls. | Python, FastAPI, SQLite, React, MCP |
+| [Transcript Pool KB](https://github.com/AnantBisht07/transcript-pool-kb) | Agentic RAG workspace for turning course transcripts into searchable knowledge, grounded questions, validation flows, and exportable QA outputs. | FastAPI, Postgres, Qdrant, Celery, Redis |
+| [OpenAnalyst Web](https://github.com/AnantBisht07/OpenAnalyst-web) | Enterprise-grade AI search and knowledge intelligence platform with advanced RAG, MCP integrations, workflow orchestration, and citation-backed answers. | Python, React, LangGraph, Qdrant, ArangoDB |
 | [PromptForge](https://github.com/AnantBisht07/PromptForge) | Multi-tenant prompt management API with JWT auth, RBAC, prompt versioning, and semantic search through Qdrant. | FastAPI, SQLModel, JWT, Qdrant |
+| [Text-2-SQL Analysis](https://github.com/AnantBisht07/text-2-sql-analysis) | Text-to-SQL analysis workspace for AI-assisted database querying, analytics, and structured reasoning over business data. | PLpgSQL, SQL, Analytics |
+| [OpenAnalyst Agents Debug](https://github.com/AnantBisht07/OpenAnalyst-Agents-debug) | MCP-powered debugging system for agent runs, trace analysis, integration-state inspection, and stale-data diagnosis. | MCP, Python, HTML |
+| [MCP WatchTower](https://github.com/AnantBisht07/watchTower) | Local-first control tower for MCP-powered agents with audit trails, live run activity, server health checks, and approval gates for risky tool calls. | Python, FastAPI, SQLite, React, MCP |
+
+### More Applied AI Builds
+
+| Project | What it does | Stack |
+|---|---|---|
 | [AI Teacher Assistant MCP Server](https://github.com/AnantBisht07/AI-Teacher-Assistant-MCP-Server) | MCP server exposing classroom tools, local teaching resources, and reusable prompts for student support workflows. | Python, FastMCP, MCP, Pytest |
 | [10x Arena Support RAG Chatbot](https://github.com/AnantBisht07/Circle-contest-chatbot) | Document Q&A chatbot with source citations, PDF ingestion, vector search, and a clean React chat interface. | React, FastAPI, OpenAI, Pinecone |
 
@@ -63,17 +76,41 @@ I am an AI Software Engineer at 1to10x, focused on turning LLM workflows into re
 
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Applied%20AI%20Engineer-2ea043?style=for-the-badge" alt="Applied AI Engineer" />
   <img src="https://img.shields.io/badge/Agentic%20AI-0f766e?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/AI%20Agents-134e4a?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-115e59?style=for-the-badge" alt="Multi-Agent Systems" />
   <img src="https://img.shields.io/badge/RAG-1d4ed8?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic%20RAG-1e40af?style=for-the-badge" alt="Agentic RAG" />
   <img src="https://img.shields.io/badge/CAG-4338ca?style=for-the-badge" alt="CAG" />
   <img src="https://img.shields.io/badge/MCP-2ea043?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Context%20Engineering-7c3aed?style=for-the-badge" alt="Context Engineering" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6d28d9?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude%20Code-cc785c?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-191919?style=for-the-badge" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Models-16a34a?style=for-the-badge" alt="Open Source Models" />
+  <img src="https://img.shields.io/badge/Closed%20Source%20Models-475569?style=for-the-badge" alt="Closed Source Models" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama" />
+  <img src="https://img.shields.io/badge/vLLM-0f172a?style=for-the-badge" alt="vLLM" />
   <img src="https://img.shields.io/badge/Qdrant-dc244c?style=for-the-badge" alt="Qdrant" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
   <img src="https://img.shields.io/badge/Vector%20Search-2563eb?style=for-the-badge" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Embeddings-0ea5e9?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Rerankers-0284c7?style=for-the-badge" alt="Rerankers" />
   <img src="https://img.shields.io/badge/Tool%20Calling-7c3aed?style=for-the-badge" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/Function%20Calling-9333ea?style=for-the-badge" alt="Function Calling" />
+  <img src="https://img.shields.io/badge/Structured%20Outputs-4f46e5?style=for-the-badge" alt="Structured Outputs" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-b91c1c?style=for-the-badge" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Guardrails-d97706?style=for-the-badge" alt="Guardrails" />
+  <img src="https://img.shields.io/badge/AI%20Observability-0891b2?style=for-the-badge" alt="AI Observability" />
+  <img src="https://img.shields.io/badge/Model%20Routing-334155?style=for-the-badge" alt="Model Routing" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-7f1d1d?style=for-the-badge" alt="Knowledge Graphs" />
 </p>
 
 ---
@@ -100,10 +137,10 @@ I am an AI Software Engineer at 1to10x, focused on turning LLM workflows into re
 - Designing safer MCP and AI-agent execution flows.
 - Building backend systems for prompt, retrieval, and automation workflows.
 - Improving RAG quality with better indexing, chunking, retrieval, and source-grounded responses.
-- Shipping practical AI tools that are observable, testable, and useful in real workflows.
+- Shipping practical Applied AI Engineer tools that are observable, testable, and useful in real workflows.
 
 ---
 
 <p align="center">
-  <strong>Open to AI engineering, backend, and agentic workflow collaborations.</strong>
+  <strong>Applied AI Engineer open to AI engineering, backend, and agentic workflow collaborations.</strong>
 </p>
